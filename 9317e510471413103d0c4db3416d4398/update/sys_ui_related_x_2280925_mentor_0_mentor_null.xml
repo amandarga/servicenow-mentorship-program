@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_related sys_domain="global" table="x_2280925_mentor_0_mentor" version="2" view="">
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <group_by_field/>
+            <list_id display_value="Mentor - Default view" name="x_2280925_mentor_0_mentor" related_list="NULL" sys_domain="global" view="Default view">35c916e8475893103d0c4db3416d4369</list_id>
+            <order_by/>
+            <position>0</position>
+            <related_list>x_2280925_mentor_0_mentorship_session.mentor_s_name</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-29 20:07:59</sys_created_on>
+            <sys_id>c2c916e8475893103d0c4db3416d436c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-29 20:07:59</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list action="INSERT_OR_UPDATE">
+            <calculated_name>Mentor - Default view</calculated_name>
+            <filter/>
+            <name>x_2280925_mentor_0_mentor</name>
+            <order_by/>
+            <position/>
+            <related_list/>
+            <sys_class_name>sys_ui_related_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-29 20:07:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>35c916e8475893103d0c4db3416d4369</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Mentor - Default view</sys_name>
+            <sys_package display_value="Mentorship Program" source="x_2280925_mentor_0">9317e510471413103d0c4db3416d4398</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Mentorship Program">9317e510471413103d0c4db3416d4398</sys_scope>
+            <sys_update_name>sys_ui_related_x_2280925_mentor_0_mentor_null</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-29 20:07:59</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_related_list>
+    </sys_ui_related>
+</record_update>
