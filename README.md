@@ -1,6 +1,6 @@
 # Mentorship Program · ServiceNow
 
-App ServiceNow que gerencia um programa de mentoria de ponta a ponta. O mentorado pede uma sessão pelo portal, o mentor aprova, registra o feedback, e o sistema conta as sessões concluídas. Nenhum status é alterado à mão.
+App ServiceNow que gerencia um programa de mentoria. O mentorado pede uma sessão pelo portal, o mentor aprova, registra o feedback, e o sistema conta as sessões concluídas. Nenhum status é alterado à mão.
 
 Desenvolvido durante o bootcamp **Shark in ServiceNow #14** (Aoop / NTT DATA), em outubro de 2026, numa PDI com a release **Australia**.
 
