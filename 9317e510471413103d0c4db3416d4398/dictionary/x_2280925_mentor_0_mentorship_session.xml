@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="enforce_dot_walk_cross_scope_access=true" audit="true" db_object_id="1df6422847d493103d0c4db3416d4319" extends="task" label="Mentorship Session" max_length="40" name="x_2280925_mentor_0_mentorship_session" type="collection">
+        <element label="Mentor's Name" max_length="32" name="mentor_s_name" reference="x_2280925_mentor_0_mentor" reference_qual="available=true^EQ" reference_qual_condition="available=true^EQ" type="reference"/>
+        <element label="Session Date" max_length="40" name="session_date" type="glide_date_time"/>
+        <element label="Session Feedback" max_length="40" name="session_feedback" type="html"/>
+    </element>
+</database>

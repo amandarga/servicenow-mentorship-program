@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="session_date" label="Session Date" language="en" table="x_2280925_mentor_0_mentorship_session">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>session_date</element>
+            <help/>
+            <hint/>
+            <label>Session Date</label>
+            <language>en</language>
+            <name>x_2280925_mentor_0_mentorship_session</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-29 18:58:37</sys_created_on>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_name>Session Date</sys_name>
+            <sys_package display_value="Mentorship Program" source="x_2280925_mentor_0">9317e510471413103d0c4db3416d4398</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Mentorship Program">9317e510471413103d0c4db3416d4398</sys_scope>
+            <sys_update_name>sys_documentation_x_2280925_mentor_0_mentorship_session_session_date_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-29 18:58:40</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
